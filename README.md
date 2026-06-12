@@ -25,7 +25,7 @@ This project build an end-to-end **Remaining Useful Life (RUL) prediction pipeli
 
 **Context:** Literature RMSE on FD001 ranges from ~14 (LSTM/deep learning) to ~25 (classical ML). This GBM ensemble achieves copetitive performance without sequence modelling, using pure feature engineering.
 
-The **NASA PHM Score** is an asymmetric metric used in the 2008 PHN Challenge that penalises late predictions ~2x higher than early ones - reflecting the real cost of missed maintenance window.
+The **NASA PHM Score** is an asymmetric metric used in the 2008 PHM Challenge that penalises late predictions ~2x higher than early ones - reflecting the real cost of missed maintenance window.
 
 ---
 
